@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on: building a stock analysis website https://stockalyze.xyz/ only using AI<br>🤝 I’m looking to collaborate on: frontend load testing<br>🌱 I’m currently learning: management skills<br>💬 Ask me about: anything related to testing<br>⚡ Fun fact: I used to love breaking things as a kid, which led me to a career in QA
+🛠️ I’m currently working on: building a stock analysis website https://stockalyze.xyz/ using only AI<br>🤝 I’m looking to collaborate on: frontend load testing<br>🌱 I’m currently learning: management skills<br>💬 Ask me about: anything related to testing<br>⚡ Fun fact: I used to love breaking things as a kid, which led me to a career in QA
 
 
 ## 🌐 Socials:
